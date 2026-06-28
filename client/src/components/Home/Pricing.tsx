@@ -6,7 +6,7 @@ const pricingPlans = [
         name: "Starter",
         price: "Free",
         period: "",
-        description: "Perfect for creators just getting started with social media automation.",
+        description: "Perfect for creator just getting started with social media automation.",
         features: ["2 social accounts", "10 scheduled posts/month", "AI content (5 credits/mo)", "Basic dashboard"],
         cta: "Get Started Free : ",
         highlight: false,
